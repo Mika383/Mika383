@@ -1,44 +1,62 @@
 <h1 align="center">
-  <img src="https://api.iconify.design/lucide:hand.svg?color=black" width="30" height="30" /> <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:hand.svg?color=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:hand.svg?color=black">
+    <img src="https://api.iconify.design/lucide:hand.svg?color=black" width="30" height="30">
+  </picture>
+  <br/>
   Nice to meet you! <br/>
   I'm Trương Đỗ Duy Hải
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Front-End+Specialist;Continuous+Learner" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Front-End+Specialist;Continuous+Learner">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Front-End+Specialist;Continuous+Learner">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Front-End+Specialist;Continuous+Learner">
+  </picture>
 </p>
 
-<h2 align="center"><img src="https://api.iconify.design/lucide:hand.svg?color=black" width="22" height="22" /> Greetings!</h2>
+<h2 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:hand.svg?color=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:hand.svg?color=black">
+    <img src="https://api.iconify.design/lucide:hand.svg?color=black" width="22" height="22">
+  </picture>
+  Greetings!
+</h2>
 
 <p align="center">
-  I am a passionate <b>Full-Stack Developer</b> based in Vietnam, with a strong focus on building performant and beautiful web applications. 
+  I am a passionate <b>Full-Stack Developer</b> based in Vietnam, with a primary focus and deep expertise in <b>Front-End Development</b>. <br/>
+  My approach goes beyond coding: I specialize in architecting efficient <b>project flows</b>, defining robust <b>business rules</b>, <br/>
+  and crafting <b>user-centric interfaces</b> that are intuitive, accessible, and delightful to use. <br/>
   Dedicated to continuous learning and striving to craft clean, maintainable code that delivers exceptional user experiences.
 </p>
 
 ---
 
-## <img src="https://api.iconify.design/lucide:user.svg?color=black" width="22" height="22" /> About Me
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:user.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:user.svg?color=black"><img src="https://api.iconify.design/lucide:user.svg?color=black" width="22" height="22"></picture> About Me
 *A brief overview of my personal background and origin.*
 
-- <img src="https://api.iconify.design/lucide:flag.svg?color=black" width="16" height="16" /> **Nationality**: Vietnamese
-- <img src="https://api.iconify.design/lucide:map-pin.svg?color=black" width="16" height="16" /> **Location**: Ho Chi Minh City, Vietnam
-- <img src="https://api.iconify.design/lucide:calendar.svg?color=black" width="16" height="16" /> **Year of Birth**: 2003
-- <img src="https://api.iconify.design/lucide:target.svg?color=black" width="16" height="16" /> **Career Goal**: To become a **Senior Full-Stack Developer**.
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:flag.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:flag.svg?color=black"><img src="https://api.iconify.design/lucide:flag.svg?color=black" width="16" height="16"></picture> **Nationality**: Vietnamese
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:map-pin.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:map-pin.svg?color=black"><img src="https://api.iconify.design/lucide:map-pin.svg?color=black" width="16" height="16"></picture> **Location**: Ho Chi Minh City, Vietnam
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:calendar.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:calendar.svg?color=black"><img src="https://api.iconify.design/lucide:calendar.svg?color=black" width="16" height="16"></picture> **Year of Birth**: 2003
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:target.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:target.svg?color=black"><img src="https://api.iconify.design/lucide:target.svg?color=black" width="16" height="16"></picture> **Career Goal**: To become a **Senior Full-Stack Developer**.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:briefcase.svg?color=black" width="22" height="22" /> Professional Journey
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:briefcase.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:briefcase.svg?color=black"><img src="https://api.iconify.design/lucide:briefcase.svg?color=black" width="22" height="22"></picture> Professional Journey
 *Tracking my professional growth and work history.*
 
-### <img src="https://api.iconify.design/lucide:building-2.svg?color=black" width="20" height="20" /> Experience
-- <img src="https://api.iconify.design/lucide:building.svg?color=black" width="16" height="16" /> **Ahso Company** | *Full-Stack Developer*  
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:building-2.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:building-2.svg?color=black"><img src="https://api.iconify.design/lucide:building-2.svg?color=black" width="20" height="20"></picture> Experience
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:building.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:building.svg?color=black"><img src="https://api.iconify.design/lucide:building.svg?color=black" width="16" height="16"></picture> **Ahso Company** | *Full-Stack Developer*  
   `Oct 2025 - Present`
-- <img src="https://api.iconify.design/lucide:building.svg?color=black" width="16" height="16" /> **FPT Software** | *Software Engineer Intern*  
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:building.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:building.svg?color=black"><img src="https://api.iconify.design/lucide:building.svg?color=black" width="16" height="16"></picture> **FPT Software** | *Software Engineer Intern*  
   `May 2024 - Aug 2024`
 
 ---
 
-## <img src="https://api.iconify.design/lucide:languages.svg?color=black" width="22" height="22" /> Linguistic Proficiency
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:languages.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:languages.svg?color=black"><img src="https://api.iconify.design/lucide:languages.svg?color=black" width="22" height="22"></picture> Linguistic Proficiency
 *Languages I speak and my current learning progress.*
 
 - 🇬🇧 **English**: Communicative proficiency.
@@ -46,10 +64,10 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:code-2.svg?color=black" width="22" height="22" /> Technical Arsenal
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:code-2.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:code-2.svg?color=black"><img src="https://api.iconify.design/lucide:code-2.svg?color=black" width="22" height="22"></picture> Technical Arsenal
 *Tools, languages, and frameworks I use to build solutions.*
 
-### <img src="https://api.iconify.design/lucide:wrench.svg?color=black" width="20" height="20" /> Languages & Core
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:wrench.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:wrench.svg?color=black"><img src="https://api.iconify.design/lucide:wrench.svg?color=black" width="20" height="20"></picture> Languages & Core
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -57,7 +75,7 @@
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### <img src="https://api.iconify.design/lucide:rocket.svg?color=black" width="20" height="20" /> Frameworks & Libraries
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:rocket.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:rocket.svg?color=black"><img src="https://api.iconify.design/lucide:rocket.svg?color=black" width="20" height="20"></picture> Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -66,7 +84,7 @@
   <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
-### <img src="https://api.iconify.design/lucide:database.svg?color=black" width="20" height="20" /> Databases & Tools
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:database.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:database.svg?color=black"><img src="https://api.iconify.design/lucide:database.svg?color=black" width="20" height="20"></picture> Databases & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -75,7 +93,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=black" width="22" height="22" /> Github Statistics
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:bar-chart-3.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:bar-chart-3.svg?color=black"><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=black" width="22" height="22"></picture> Github Statistics
 *A glimpse into my coding activity and language preferences.*
 
 <div align="center">
@@ -93,7 +111,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:message-circle.svg?color=black" width="22" height="22" /> Find Me On
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:message-circle.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:message-circle.svg?color=black"><img src="https://api.iconify.design/lucide:message-circle.svg?color=black" width="22" height="22"></picture> Find Me On
 *Let's connect and collaborate across these platforms.*
 
 <p align="left">
