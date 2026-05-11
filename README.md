@@ -100,10 +100,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mika383&show_icons=true&theme=omni&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_rank=true" alt="Mika383's GitHub stats" height="150" />
+        <img src="./profile/stats.svg" alt="Mika383's GitHub stats" height="150" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mika383&layout=compact&theme=omni&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff" alt="Top Langs" height="150" />
+        <img src="./profile/top-langs.svg" alt="Top Langs" height="150" />
       </td>
     </tr>
   </table>

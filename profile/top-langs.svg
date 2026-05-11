@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="355" height="195" viewBox="0 0 355 195" role="img" aria-labelledby="title desc">
+  <title id="title">Top languages placeholder</title>
+  <desc id="desc">GitHub Actions will generate the top languages card after the next push or manual workflow run.</desc>
+  <rect width="355" height="195" fill="#ffffff"/>
+  <rect x="1" y="1" width="353" height="193" fill="none" stroke="#e5e7eb"/>
+  <text x="24" y="42" fill="#111111" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Top Languages</text>
+  <text x="24" y="78" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">This placeholder prevents broken images</text>
+  <text x="24" y="102" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">until the workflow writes the live SVG card.</text>
+  <text x="24" y="142" fill="#6b7280" font-family="Segoe UI, Arial, sans-serif" font-size="12">Auto-refresh interval: every 12 hours</text>
+</svg>
