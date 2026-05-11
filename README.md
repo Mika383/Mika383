@@ -100,10 +100,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="./profile/stats.svg" alt="Mika383's GitHub stats" height="150" />
+        <img src="https://raw.githubusercontent.com/Mika383/Mika383/main/profile/stats.svg" alt="Mika383's GitHub stats" height="150" />
       </td>
       <td>
-        <img src="./profile/top-langs.svg" alt="Top Langs" height="150" />
+        <img src="https://raw.githubusercontent.com/Mika383/Mika383/main/profile/top-langs.svg" alt="Top Langs" height="150" />
       </td>
     </tr>
   </table>
